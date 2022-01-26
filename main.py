@@ -2,12 +2,6 @@
 #created by Dan, isp-11
 #It translates numbers from one numeral system to another
 
-#************************************************************************************#
-#WARNING! READ ME PLEASE                                                             #
-#THIS PROGRAM WILL WORK ONLY ON PYHON 3.10 V, IF YOUR PY V IS BELOW THAT PLS UPDATE  #
-#COUSE I'VE USED NEW FUN IN THIS UPDATE MATCH(SWITCH FOR FOLK)                       #
-#WARNING! READ ME PLEASE                                                             #
-#************************************************************************************#
 from prettytable import PrettyTable
 __version__ = '6.7' #needed to be tested and finished
 
